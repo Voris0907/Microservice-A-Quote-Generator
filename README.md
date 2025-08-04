@@ -13,4 +13,3 @@ response = requests.get(
     params={"status": "excellent", "nutrient": "protein"}
 )
 
-<img width="1713" height="1293" alt="UML" src="https://github.com/user-attachments/assets/690b0a51-c1c3-4b95-b0fc-8c302586f55d" />
