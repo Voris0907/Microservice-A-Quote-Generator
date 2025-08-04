@@ -13,3 +13,9 @@ response = requests.get(
     params={"status": "excellent", "nutrient": "protein"}
 )
 
+**For Advice (low status):**
+```python
+response = requests.get(
+    "http://localhost:8000",
+    params={"status": "low", "nutrient": "iron"}
+)
