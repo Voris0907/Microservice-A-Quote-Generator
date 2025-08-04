@@ -44,3 +44,5 @@ response = requests.get(
     "timestamp": "2025-08-05T12:00:00Z"
 }
 ```
+### UML Sequence Diagram
+<img width="1713" height="1293" alt="UML" src="https://github.com/user-attachments/assets/b326c4ea-61e0-46d7-8b8a-a8fe3655a6d7" />
