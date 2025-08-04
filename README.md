@@ -45,4 +45,5 @@ response = requests.get(
 }
 ```
 ### UML Sequence Diagram
-<img width="1713" height="1293" alt="UML" src="https://github.com/user-attachments/assets/b326c4ea-61e0-46d7-8b8a-a8fe3655a6d7" />
+<img width="2412" height="1113" alt="UML" src="https://github.com/user-attachments/assets/a00611c5-1433-4000-beab-17db79338dc9" />
+
