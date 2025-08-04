@@ -12,16 +12,16 @@ response = requests.get(
     "http://localhost:8000",
     params={"status": "excellent", "nutrient": "protein"}
 )
-For Advice (low status):
+**For Advice (low status):**
 
-python
+```python
 response = requests.get(
     "http://localhost:8000",
     params={"status": "low", "nutrient": "iron"}
 )
-For Motivation (goal-based):
+**For Motivation (goal-based):**
 
-python
+```python
 response = requests.get(
     "http://localhost:8000",
     params={"goal": "muscle_gain"}
